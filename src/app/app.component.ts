@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'basic-ngFor-exercise';
+  foods: string[] = ['pizza', 'hamburger', 'soup', 'salad'];
 }
